@@ -1,0 +1,2 @@
+# Comparative Analysis of Regression Models and Exponential Model for Population Growth Prediction
+ Comparison of performance four different regression model (Linear Regressor, Polynomial Regres- sor, Decision Tree Regressor and Random Forest Regressor) and a mathematical model (Exponential Growth Model) when no other features are available except the population. Furthermore, this work tries to predict the population of the next ten years of Bangladesh is predicted with the best performing model.
