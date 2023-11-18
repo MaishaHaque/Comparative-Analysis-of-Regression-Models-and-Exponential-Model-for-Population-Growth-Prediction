@@ -8,8 +8,7 @@
  The analysis and details can be found in the pdf.
  The code can be found in the .inpynb format in the "Codes" folder.
  The dataset can be found in "Dataset" folder.
-
- ## Running the code
+### Running the code
  1. Download the file.
  2. Open it in google colab or any other notebook.
  3. Upload the dataset.
